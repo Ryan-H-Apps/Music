@@ -1,1 +1,3 @@
-Way Up High|Pyrosion|http://music.ryanhapps.xyz/songs/song1.mp3~Happy|MusicByAden|http://music.ryanhapps.xyz/songs/song2.mp3~Feel Good|MusicByAden|http://music.ryanhapps.xyz/songs/song3.mp3
+Way Up High|Pyrosion|http://music.ryanhapps.xyz/songs/song1.mp3~
+Happy|MusicByAden|http://music.ryanhapps.xyz/songs/song2.mp3~
+Feel Good|MusicByAden|http://music.ryanhapps.xyz/songs/song3.mp3
